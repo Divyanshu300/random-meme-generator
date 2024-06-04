@@ -10,7 +10,7 @@ Unleash your inner meme lord with this interactive meme generator! Built with Re
 
 <h2>🚀 Live </h2>
 
-[Random Meme Generator]( https://counter-website-sepia.vercel.app/  )
+[Random Meme Generator](https://random-meme-3v60e5009-divyanshu800s-projects.vercel.app/)
 
 <br></br>
   
